@@ -13,7 +13,7 @@ The following tools are required to develop, build , test and package libOpenCOR
 
   - **Windows:** `Visual Studio Community 2017 <https://visualstudio.com/downloads/download-visual-studio-vs>`__ ( ``Desktop development with C++``);
   - **Linux:** G++ (``g++`` package) on Ubuntu 20.04 LTS; and
-  - **macOS:** `Xcode <https://developer.apple.com/xcode/>`__ 12 (including its `Command Line Tools <https://developer.apple.com/downloads/?q=Command%20Line%20Tools>`__).
+  - **macOS:** `Xcode <https://developer.apple.com/xcode/>`__ 13 (including its `Command Line Tools <https://developer.apple.com/downloads/?q=Command%20Line%20Tools>`__).
 
 Additionally, you may also want to rely on the following optional tools:
 
