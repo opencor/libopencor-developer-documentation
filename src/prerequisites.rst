@@ -25,7 +25,7 @@ Additionally, you may also want to rely on the following optional tools:
 - `ClangFormat <https://clang.llvm.org/docs/ClangFormat.html>`__: a tool to format C/C++ code;
 - `gcov <https://gcc.gnu.org/onlinedocs/gcc/Gcov.html>`__ and `gcovr <https://gcovr.com/en/stable/>`__: some tools to test and report on code coverage;
 - `llvm-cov <https://llvm.org/docs/CommandGuide/llvm-cov.html>`__ and `llvm-profdata <https://llvm.org/docs/CommandGuide/llvm-profdata.html>`__: some tools to test and report on code coverage;
-- `Valgrind <https://valgrind.org/>`__ 3.7 or later: an instrumentation framework for building dynamic analysis tools;
+- `Valgrind <https://valgrind.org/>`__: an instrumentation framework for building dynamic analysis tools;
 - `Python <https://python.org/>`__ 3.7 or later: a programming language;
 - `pytest <https://pytest.org/>`__: a Python testing framework; and
 - `Sphinx <https://www.sphinx-doc.org/>`__: a tool to generate documentation.
