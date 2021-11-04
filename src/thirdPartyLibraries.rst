@@ -11,5 +11,5 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   - Location: |libCellML|_.
   - Licensing: `Apache v2.0 <https://opensource.org/licenses/Apache-2.0>`__.
 
-  .. |libCellML| replace:: ``[libOpenCOR]/src/plugins/thirdParty/libCellML``
-  .. _libCellML: https://github.com/opencor/libopencor/tree/master/src/plugins/thirdParty/libCellML
+  .. |libCellML| replace:: ``[libOpenCOR]/src/3rdparty/libCellML``
+  .. _libCellML: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libCellML
