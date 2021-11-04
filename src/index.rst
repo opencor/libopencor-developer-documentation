@@ -11,10 +11,15 @@ Information on those different aspects can be found in the following pages:
 
 ..
 
+- :ref:`thirdPartyLibraries`
+
+..
+
 .. toctree::
    :hidden:
 
    prerequisites
+   thirdPartyLibraries
 
 Here are also some direct links to libOpenCOR's:
 
