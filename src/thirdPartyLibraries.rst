@@ -13,3 +13,11 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
 
   .. |libCellML| replace:: ``[libOpenCOR]/src/3rdparty/libCellML``
   .. _libCellML: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libCellML
+
+- `OpenSSL <https://openssl.org/>`__ 1.1.1l: a toolkit implementing the Secure Sockets Layer (SSL v2/v3) and Transport Layer Security (TLS) protocols, as well as a full-strength general purpose cryptography library.
+
+  - Location: |OpenSSL|_.
+  - Licensing: `OpenSSL and SSLeay <https://openssl.org/source/license.html>`__, which are both `BSD <https://opensource.org/licenses/BSD-3-Clause>`__-style licenses.
+
+  .. |OpenSSL| replace:: ``[OpenCOR]/src/3rdparty/OpenSSL``
+  .. _OpenSSL: https://github.com/opencor/libopencor/tree/master/src/3rdparty/OpenSSL
