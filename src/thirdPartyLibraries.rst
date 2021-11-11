@@ -21,3 +21,11 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
 
   .. |OpenSSL| replace:: ``[OpenCOR]/src/3rdparty/OpenSSL``
   .. _OpenSSL: https://github.com/opencor/libopencor/tree/master/src/3rdparty/OpenSSL
+
+- `zlib <https://zlib.net/>`__ 1.2.11: a massively spiffy yet delicately unobtrusive compression library.
+
+  - Location: |zlib|_.
+  - Licensing: `Zlib <https://opensource.org/licenses/Zlib>`__.
+
+  .. |zlib| replace:: ``[OpenCOR]/src/3rdparty/zlib``
+  .. _zlib: https://github.com/opencor/libopencor/tree/master/src/3rdparty/zlib
