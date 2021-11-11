@@ -14,6 +14,14 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |libCellML| replace:: ``[libOpenCOR]/src/3rdparty/libCellML``
   .. _libCellML: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libCellML
 
+- `libcurl <https://curl.se/libcurl/>`__: the multiprotocol file transfer library.
+
+  - Location: |libcurl|_.
+  - Licensing: `curl <https://curl.se/docs/copyright.html>`__.
+
+  .. |libcurl| replace:: ``[libOpenCOR]/src/3rdparty/libcurl``
+  .. _libcurl: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libcurl
+
 - `OpenSSL <https://openssl.org/>`__ 1.1.1l: a toolkit implementing the Secure Sockets Layer (SSL v2/v3) and Transport Layer Security (TLS) protocols, as well as a full-strength general purpose cryptography library.
 
   - Location: |OpenSSL|_.
