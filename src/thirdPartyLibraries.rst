@@ -22,6 +22,14 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |libcurl| replace:: ``[libOpenCOR]/src/3rdparty/libcurl``
   .. _libcurl: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libcurl
 
+- `libSBML <http://sbml.org/Software/libSBML/>`__ 5.19.0: a programming library to help you read, write, manipulate, translate and validate `SBML <http://sbml.org/>`__ files and data streams.
+
+  - Location: |libSBML|_.
+  - Licensing: `LGPL v2.1 <https://opensource.org/licenses/LGPL-2.1>`__ (or later).
+
+  .. |libSBML| replace:: ``[OpenCOR]/src/3rdparty/libSBML``
+  .. _libSBML: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libSBML
+
 - `OpenSSL <https://openssl.org/>`__ 1.1.1l: a toolkit implementing the Secure Sockets Layer (SSL v2/v3) and Transport Layer Security (TLS) protocols, as well as a full-strength general purpose cryptography library.
 
   - Location: |OpenSSL|_.
