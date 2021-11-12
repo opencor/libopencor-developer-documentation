@@ -6,7 +6,7 @@
 
 libOpenCOR uses various third-party libraries, all of which are listed below, together with the type of license(s) under which they are released, if any.
 
-- `libCellML <https://libcellml.org/>`__: an easy-to-use library aiming to be useful to developers of `CellML <https://cellml.org/>`__ applications.
+- `libCellML <https://libcellml.org/>`__ 0.2.0: an easy-to-use library aiming to be useful to developers of `CellML <https://cellml.org/>`__ applications.
 
   - Location: |libCellML|_.
   - Licensing: `Apache v2.0 <https://opensource.org/licenses/Apache-2.0>`__.
@@ -14,7 +14,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |libCellML| replace:: ``[libOpenCOR]/src/3rdparty/libCellML``
   .. _libCellML: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libCellML
 
-- `libcurl <https://curl.se/libcurl/>`__: the multiprotocol file transfer library.
+- `libcurl <https://curl.se/libcurl/>`__ 7.80.0: the multiprotocol file transfer library.
 
   - Location: |libcurl|_.
   - Licensing: `curl <https://curl.se/docs/copyright.html>`__.
