@@ -51,5 +51,5 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   - Location: |zlib-ng|_.
   - Licensing: `Zlib <https://opensource.org/licenses/Zlib>`__.
 
-  .. |zlib-ng| replace:: ``[OpenCOR]/src/3rdparty/zlib-ng``
-  .. _zlib-ng: https://github.com/opencor/libopencor/tree/master/src/3rdparty/zlib-ng
+  .. |zlib-ng| replace:: ``[OpenCOR]/src/3rdparty/zlib``
+  .. _zlib-ng: https://github.com/opencor/libopencor/tree/master/src/3rdparty/zlib
