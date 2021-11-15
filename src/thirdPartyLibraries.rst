@@ -22,6 +22,14 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |libcurl| replace:: ``[libOpenCOR]/src/3rdparty/libcurl``
   .. _libcurl: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libcurl
 
+- `libNuML <https://github.com/NuML/NuML/>`__ 1.1.4: a library for reading and writing `NuML <https://github.com/NuML/NuML/>`__ models.
+
+  - Location: |libNuML|_.
+  - Licensing: `LGPL v2.1 <https://opensource.org/licenses/LGPL-2.1>`__ (or later).
+
+  .. |libNuML| replace:: ``[libOpenCOR]/src/3rdparty/libNuML``
+  .. _libNuML: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libNuML
+
 - `libSBML <http://sbml.org/Software/libSBML/>`__ 5.19.0: a programming library to help you read, write, manipulate, translate and validate `SBML <http://sbml.org/>`__ files and data streams.
 
   - Location: |libSBML|_.
