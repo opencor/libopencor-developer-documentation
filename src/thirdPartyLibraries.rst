@@ -30,7 +30,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |libSBML| replace:: ``[OpenCOR]/src/3rdparty/libSBML``
   .. _libSBML: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libSBML
 
-- `libxml2 <http://xmlsoft.org/>`__ 2.9.12: the `XML <https://en.wikipedia.org/wiki/XML>`__ C parser and toolkit of `Gnome <https://gnome.org/>`__.
+- `libxml2 <http://xmlsoft.org/>`__ 2.9.10: the `XML <https://en.wikipedia.org/wiki/XML>`__ C parser and toolkit of `Gnome <https://gnome.org/>`__.
 
   - Location: |libxml2|_.
   - Licensing: `MIT <https://opensource.org/licenses/MIT>`__.
