@@ -62,6 +62,14 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |OpenSSL| replace:: ``[libOpenCOR]/src/3rdparty/OpenSSL``
   .. _OpenSSL: https://github.com/opencor/libopencor/tree/master/src/3rdparty/OpenSSL
 
+- `zipper <https://github.com/fbergmann/zipper>`__ 0.9-beta: a C++ wrapper around the `minizip <http://www.winimage.com/zLibDll/minizip.html>`__ compression library.
+
+  - Location: |zipper|_.
+  - Licensing: `MIT <https://opensource.org/licenses/MIT>`__.
+
+  .. |zipper| replace:: ``[libOpenCOR]/src/3rdparty/zipper``
+  .. _zipper: https://github.com/opencor/libopencor/tree/master/src/3rdparty/zipper
+
 - `zlib-ng <https://github.com/zlib-ng/zlib-ng>`__ 2.0.5: a `zlib <https://zlib.net/>`__ replacement with optimizations for "next generation" systems.
 
   - Location: |zlib-ng|_.
