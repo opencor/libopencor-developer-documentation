@@ -35,7 +35,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   - Location: |libSBML|_.
   - Licensing: `LGPL v2.1 <https://opensource.org/licenses/LGPL-2.1>`__ (or later).
 
-  .. |libSBML| replace:: ``[OpenCOR]/src/3rdparty/libSBML``
+  .. |libSBML| replace:: ``[libOpenCOR]/src/3rdparty/libSBML``
   .. _libSBML: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libSBML
 
 - `libxml2 <http://xmlsoft.org/>`__ 2.9.10: the `XML <https://en.wikipedia.org/wiki/XML>`__ C parser and toolkit of `Gnome <https://gnome.org/>`__.
@@ -43,7 +43,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   - Location: |libxml2|_.
   - Licensing: `MIT <https://opensource.org/licenses/MIT>`__.
 
-  .. |libxml2| replace:: ``[OpenCOR]/src/3rdparty/libxml2``
+  .. |libxml2| replace:: ``[libOpenCOR]/src/3rdparty/libxml2``
   .. _libxml2: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libxml2
 
 - `OpenSSL <https://openssl.org/>`__ 1.1.1l: a toolkit implementing the Secure Sockets Layer (SSL v2/v3) and Transport Layer Security (TLS) protocols, as well as a full-strength general purpose cryptography library.
@@ -51,7 +51,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   - Location: |OpenSSL|_.
   - Licensing: `OpenSSL and SSLeay <https://openssl.org/source/license.html>`__, which are both `BSD <https://opensource.org/licenses/BSD-3-Clause>`__-style licenses.
 
-  .. |OpenSSL| replace:: ``[OpenCOR]/src/3rdparty/OpenSSL``
+  .. |OpenSSL| replace:: ``[libOpenCOR]/src/3rdparty/OpenSSL``
   .. _OpenSSL: https://github.com/opencor/libopencor/tree/master/src/3rdparty/OpenSSL
 
 - `zlib-ng <https://github.com/zlib-ng/zlib-ng>`__ 2.0.5: a `zlib <https://zlib.net/>`__ replacement with optimizations for "next generation" systems.
@@ -59,5 +59,5 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   - Location: |zlib-ng|_.
   - Licensing: `Zlib <https://opensource.org/licenses/Zlib>`__.
 
-  .. |zlib-ng| replace:: ``[OpenCOR]/src/3rdparty/zlib``
+  .. |zlib-ng| replace:: ``[libOpenCOR]/src/3rdparty/zlib``
   .. _zlib-ng: https://github.com/opencor/libopencor/tree/master/src/3rdparty/zlib
