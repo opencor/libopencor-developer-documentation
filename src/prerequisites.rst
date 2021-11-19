@@ -23,6 +23,7 @@ Additionally, you may also want to rely on the following optional tools:
 - `ccache <https://ccache.dev/>`__ (Linux/macOS only): a compiler cache;
 - `Clang-Tidy <https://clang.llvm.org/extra/clang-tidy/>`__: a `Clang <https://clang.llvm.org/>`__-based C++ linter tool;
 - `ClangFormat <https://clang.llvm.org/docs/ClangFormat.html>`__: a tool to format C/C++ code;
+- `Black <https://black.readthedocs.io/en/stable/>`__: a tool to format Python code;
 - `gcov <https://gcc.gnu.org/onlinedocs/gcc/Gcov.html>`__ and `gcovr <https://gcovr.com/en/stable/>`__: some tools to test and report on code coverage;
 - `llvm-cov <https://llvm.org/docs/CommandGuide/llvm-cov.html>`__ and `llvm-profdata <https://llvm.org/docs/CommandGuide/llvm-profdata.html>`__: some tools to test and report on code coverage;
 - `Valgrind <https://valgrind.org/>`__: an instrumentation framework for building dynamic analysis tools;
