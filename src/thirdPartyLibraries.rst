@@ -70,6 +70,14 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |OpenSSL| replace:: ``[libOpenCOR]/src/3rdparty/OpenSSL``
   .. _OpenSSL: https://github.com/opencor/libopencor/tree/master/src/3rdparty/OpenSSL
 
+- `SUNDIALS <https://computing.llnl.gov/projects/sundials>`__ 5.8.0: a SUite of Non-linear and DIfferential/ALgebraic equation Solvers.
+
+  - Location: |SUNDIALS|_.
+  - Licensing: `BSD 3-Clause <https://opensource.org/licenses/BSD-3-Clause>`__.
+
+  .. |SUNDIALS| replace:: ``[libOpenCOR]/src/3rdparty/SUNDIALS``
+  .. _SUNDIALS: https://github.com/opencor/libopencor/tree/master/src/3rdparty/SUNDIALS
+
 - `zipper <https://github.com/fbergmann/zipper>`__ 0.9-beta: a C++ wrapper around the `minizip <http://www.winimage.com/zLibDll/minizip.html>`__ compression library.
 
   - Location: |zipper|_.
