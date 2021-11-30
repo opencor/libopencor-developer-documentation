@@ -62,6 +62,14 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |libxml2| replace:: ``[libOpenCOR]/src/3rdparty/libxml2``
   .. _libxml2: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libxml2
 
+- `LLVM <https://llvm.org/>`__\ +\ `Clang <https://clang.llvm.org/>`__ 13.0.0: a collection of modular and reusable compiler and toolchain technologies.
+
+  - Location: |LLVM+Clang|_.
+  - Licensing: `Apache v2.0 <https://opensource.org/licenses/Apache-2.0>`__ with LLVM Exceptions.
+
+  .. |LLVM+Clang| replace:: ``[libOpenCOR]/src/3rdparty/LLVMClang``
+  .. _LLVM+Clang: https://github.com/opencor/libopencor/tree/master/src/3rdparty/LLVMClang
+
 - `OpenSSL <https://openssl.org/>`__ 1.1.1l: a toolkit implementing the Secure Sockets Layer (SSL v2/v3) and Transport Layer Security (TLS) protocols, as well as a full-strength general purpose cryptography library.
 
   - Location: |OpenSSL|_.
