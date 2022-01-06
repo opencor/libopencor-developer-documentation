@@ -1,1 +1,1 @@
-Developer documentation for `OpenCOR <https://opencor.ws/libopencor>`__.
+Developer documentation for `libOpenCOR <https://opencor.ws/libopencor>`__.
