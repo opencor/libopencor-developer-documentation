@@ -14,7 +14,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |libCellML| replace:: ``[libOpenCOR]/src/3rdparty/libCellML``
   .. _libCellML: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libCellML
 
-- `libCOMBINE <https://github.com/sbmlteam/libCombine>`__ 0.2.13: a C++ library for working with the `COMBINE Archive <http://co.mbine.org/standards/omex>`__ format.
+- `libCOMBINE <https://github.com/sbmlteam/libCombine>`__ 0.2.15: a C++ library for working with the `COMBINE Archive <http://co.mbine.org/standards/omex>`__ format.
 
   - Location: |libCOMBINE|_.
   - Licensing: `BSD 2-Clause <https://opensource.org/licenses/BSD-2-Clause>`__.
