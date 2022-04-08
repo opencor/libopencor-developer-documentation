@@ -30,7 +30,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |libcurl| replace:: ``[libOpenCOR]/src/3rdparty/libcurl``
   .. _libcurl: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libcurl
 
-- `libNuML <https://github.com/NuML/NuML>`__ 1.1.4: a library for reading and writing `NuML <https://github.com/NuML/NuML>`__ models.
+- `libNuML <https://github.com/NuML/NuML>`__ 1.1.5: a library for reading and writing `NuML <https://github.com/NuML/NuML>`__ models.
 
   - Location: |libNuML|_.
   - Licensing: `LGPL v2.1 <https://opensource.org/licenses/LGPL-2.1>`__ (or later).
