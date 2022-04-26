@@ -46,7 +46,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |libSBML| replace:: ``[libOpenCOR]/src/3rdparty/libSBML``
   .. _libSBML: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libSBML
 
-- `libSEDML <https://github.com/fbergmann/libSEDML>`__ 2.0.30: a library for reading and writing `SED-ML <https://sed-ml.github.io/>`__ files.
+- `libSEDML <https://github.com/fbergmann/libSEDML>`__ 2.0.31: a library for reading and writing `SED-ML <https://sed-ml.github.io/>`__ files.
 
   - Location: |libSEDML|_.
   - Licensing: `BSD 2-Clause <https://opensource.org/licenses/BSD-2-Clause>`__.
