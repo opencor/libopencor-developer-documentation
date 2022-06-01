@@ -14,7 +14,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |libCellML| replace:: ``[libOpenCOR]/src/3rdparty/libCellML``
   .. _libCellML: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libCellML
 
-- `libCOMBINE <https://github.com/sbmlteam/libCombine>`__ 0.2.15: a C++ library for working with the `COMBINE Archive <https://co.mbine.org/standards/omex>`__ format.
+- `libCOMBINE <https://github.com/sbmlteam/libCombine>`__ 0.2.17: a C++ library for working with the `COMBINE Archive <https://co.mbine.org/standards/omex>`__ format.
 
   - Location: |libCOMBINE|_.
   - Licensing: `BSD 2-Clause <https://opensource.org/licenses/BSD-2-Clause>`__.
@@ -22,7 +22,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |libCOMBINE| replace:: ``[libOpenCOR]/src/3rdparty/libCOMBINE``
   .. _libCOMBINE: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libCOMBINE
 
-- `libcurl <https://curl.se/libcurl/>`__ 7.82.0: the multiprotocol file transfer library.
+- `libcurl <https://curl.se/libcurl/>`__ 7.83.1: the multiprotocol file transfer library.
 
   - Location: |libcurl|_.
   - Licensing: `curl <https://curl.se/docs/copyright.html>`__.
@@ -30,7 +30,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |libcurl| replace:: ``[libOpenCOR]/src/3rdparty/libcurl``
   .. _libcurl: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libcurl
 
-- `libNuML <https://github.com/NuML/NuML>`__ 1.1.5: a library for reading and writing `NuML <https://github.com/NuML/NuML>`__ models.
+- `libNuML <https://github.com/NuML/NuML>`__ 1.1.6: a library for reading and writing `NuML <https://github.com/NuML/NuML>`__ models.
 
   - Location: |libNuML|_.
   - Licensing: `LGPL v2.1 <https://opensource.org/licenses/LGPL-2.1>`__ (or later).
@@ -62,7 +62,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |libssh2| replace:: ``[libOpenCOR]/src/3rdparty/libssh2``
   .. _libssh2: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libssh2
 
-- `libxml2 <https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home>`__ 2.9.13: the `XML <https://en.wikipedia.org/wiki/XML>`__ C parser and toolkit of `Gnome <https://gnome.org/>`__.
+- `libxml2 <https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home>`__ 2.9.14: the `XML <https://en.wikipedia.org/wiki/XML>`__ C parser and toolkit of `Gnome <https://gnome.org/>`__.
 
   - Location: |libxml2|_.
   - Licensing: `MIT <https://opensource.org/licenses/MIT>`__.
