@@ -70,7 +70,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |libxml2| replace:: ``[libOpenCOR]/src/3rdparty/libxml2``
   .. _libxml2: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libxml2
 
-- `LLVM <https://llvm.org/>`__\ +\ `Clang <https://clang.llvm.org/>`__ 13.0.1: a collection of modular and reusable compiler and toolchain technologies.
+- `LLVM <https://llvm.org/>`__\ +\ `Clang <https://clang.llvm.org/>`__ 14.0.3: a collection of modular and reusable compiler and toolchain technologies.
 
   - Location: |LLVM+Clang|_.
   - Licensing: `Apache v2.0 <https://opensource.org/licenses/Apache-2.0>`__ with LLVM Exceptions.
