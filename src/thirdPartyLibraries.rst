@@ -14,7 +14,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |libCellML| replace:: ``[libOpenCOR]/src/3rdparty/libCellML``
   .. _libCellML: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libCellML
 
-- `libCOMBINE <https://github.com/sbmlteam/libCombine>`__ 0.2.17: a C++ library for working with the `COMBINE Archive <https://co.mbine.org/standards/omex>`__ format.
+- `libCOMBINE <https://github.com/sbmlteam/libCombine>`__ 0.2.18: a C++ library for working with the `COMBINE Archive <https://co.mbine.org/standards/omex>`__ format.
 
   - Location: |libCOMBINE|_.
   - Licensing: `BSD 2-Clause <https://opensource.org/licenses/BSD-2-Clause>`__.
@@ -38,7 +38,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |libNuML| replace:: ``[libOpenCOR]/src/3rdparty/libNuML``
   .. _libNuML: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libNuML
 
-- `libSBML <https://github.com/sbmlteam/libsbml>`__ 5.19.0: a programming library to help you read, write, manipulate, translate and validate `SBML <https://sbml.org/>`__ files and data streams.
+- `libSBML <https://github.com/sbmlteam/libsbml>`__ 5.19.5: a programming library to help you read, write, manipulate, translate and validate `SBML <https://sbml.org/>`__ files and data streams.
 
   - Location: |libSBML|_.
   - Licensing: `LGPL v2.1 <https://opensource.org/licenses/LGPL-2.1>`__ (or later).
@@ -46,7 +46,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |libSBML| replace:: ``[libOpenCOR]/src/3rdparty/libSBML``
   .. _libSBML: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libSBML
 
-- `libSEDML <https://github.com/fbergmann/libSEDML>`__ 2.0.31: a library for reading and writing `SED-ML <https://sed-ml.github.io/>`__ files.
+- `libSEDML <https://github.com/fbergmann/libSEDML>`__ 2.0.32: a library for reading and writing `SED-ML <https://sed-ml.github.io/>`__ files.
 
   - Location: |libSEDML|_.
   - Licensing: `BSD 2-Clause <https://opensource.org/licenses/BSD-2-Clause>`__.
@@ -94,7 +94,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |SUNDIALS| replace:: ``[libOpenCOR]/src/3rdparty/SUNDIALS``
   .. _SUNDIALS: https://github.com/opencor/libopencor/tree/master/src/3rdparty/SUNDIALS
 
-- `zipper <https://github.com/fbergmann/zipper>`__ 0.9-beta: a C++ wrapper around the `minizip <https://winimage.com/zLibDll/minizip.html>`__ compression library.
+- `zipper <https://github.com/fbergmann/zipper>`__ 6f54c03: a C++ wrapper around the `minizip <https://winimage.com/zLibDll/minizip.html>`__ compression library.
 
   - Location: |zipper|_.
   - Licensing: `MIT <https://opensource.org/licenses/MIT>`__.
