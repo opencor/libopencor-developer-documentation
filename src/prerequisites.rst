@@ -11,7 +11,7 @@ The following tools are required to develop, build , test and package libOpenCOR
 - C++ toolchain: a set of C++ tools.
   The toolchain is different depending on the platform you are using:
 
-  - **Windows:** `Visual Studio Community 2019 <https://apps.microsoft.com/store/detail/visual-studio-community-2019/XP8CDJNZKFM06W>`__ ( ``Desktop development with C++`` with ``MSVC v142 - VS 2019 C++ x64/x86 build tools`` and ``Windows 10 SDK (10.0.19041.0)``);
+  - **Windows:** `Visual Studio Community 2019 <https://apps.microsoft.com/store/detail/visual-studio-community-2019/XP8CDJNZKFM06W>`__ ( ``Desktop development with C++`` with ``MSVC v142 - VS 2019 C++ x64/x86 build tools``, ``MSVC v142 - VS 2019 C++ ARM64 build tools``, and ``Windows 10 SDK (10.0.19041.0)``);
   - **Linux:** G++ (``g++`` package) on Ubuntu 20.04 LTS; and
   - **macOS:** `Xcode <https://developer.apple.com/xcode/>`__ 13 (including its `Command Line Tools <https://developer.apple.com/downloads/?q=Command%20Line%20Tools>`__).
 
