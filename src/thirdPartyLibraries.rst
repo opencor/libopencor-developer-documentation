@@ -22,7 +22,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |libCOMBINE| replace:: ``[libOpenCOR]/src/3rdparty/libCOMBINE/``
   .. _libCOMBINE: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libCOMBINE/
 
-- `libcurl <https://curl.se/libcurl/>`__ 7.83.1: the multiprotocol file transfer library.
+- `libcurl <https://curl.se/libcurl/>`__ 8.8.0: the multiprotocol file transfer library.
 
   - Location: |libcurl|_.
   - Licensing: `curl <https://curl.se/docs/copyright.html>`__.
