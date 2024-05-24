@@ -54,7 +54,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |libSEDML| replace:: ``[libOpenCOR]/src/3rdparty/libSEDML/``
   .. _libSEDML: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libSEDML/
 
-- `libssh2 <https://libssh2.org/>`__ 1.10.0: a client-side C library implementing the `SSH2 <https://en.wikipedia.org/wiki/Secure_Shell>`__ protocol.
+- `libssh2 <https://libssh2.org/>`__ 1.11.0: a client-side C library implementing the `SSH2 <https://en.wikipedia.org/wiki/Secure_Shell>`__ protocol.
 
   - Location: |libssh2|_.
   - Licensing: `BSD 3-Clause <https://opensource.org/licenses/BSD-3-Clause>`__.
