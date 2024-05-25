@@ -62,7 +62,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |libssh2| replace:: ``[libOpenCOR]/src/3rdparty/libssh2/``
   .. _libssh2: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libssh2/
 
-- `libxml2 <https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home>`__ 2.9.14: the `XML <https://en.wikipedia.org/wiki/XML>`__ C parser and toolkit of `Gnome <https://gnome.org/>`__.
+- `libxml2 <https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home>`__ 2.12.7: the `XML <https://en.wikipedia.org/wiki/XML>`__ C parser and toolkit of `Gnome <https://gnome.org/>`__.
 
   - Location: |libxml2|_.
   - Licensing: `MIT <https://opensource.org/licenses/MIT>`__.
