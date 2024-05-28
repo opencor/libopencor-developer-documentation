@@ -94,7 +94,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |SUNDIALS| replace:: ``[libOpenCOR]/src/3rdparty/SUNDIALS/``
   .. _SUNDIALS: https://github.com/opencor/libopencor/tree/master/src/3rdparty/SUNDIALS/
 
-- `zipper <https://github.com/fbergmann/zipper>`__ 6f54c03: a C++ wrapper around the `minizip <https://winimage.com/zLibDll/minizip.html>`__ compression library.
+- `zipper <https://github.com/fbergmann/zipper>`__ 966d3b2: a C++ wrapper around the `minizip <https://winimage.com/zLibDll/minizip.html>`__ compression library.
 
   - Location: |zipper|_.
   - Licensing: `MIT <https://opensource.org/licenses/MIT>`__.
