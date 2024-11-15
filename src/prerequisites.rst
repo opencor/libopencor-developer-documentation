@@ -26,6 +26,7 @@ Additionally, you may also want to rely on the following optional tools:
 - `Black <https://black.readthedocs.io/en/stable/>`__: a tool to format Python code;
 - `llvm-cov <https://llvm.org/docs/CommandGuide/llvm-cov.html>`__ and `llvm-profdata <https://llvm.org/docs/CommandGuide/llvm-profdata.html>`__: some tools to test and report on code coverage;
 - `Valgrind <https://valgrind.org/>`__: an instrumentation framework for building dynamic analysis tools;
+- `emcc <https://emscripten.org/>`__, `emcmake <https://emscripten.org/>`__, and `emconfigure <https://emscripten.org/>`__: tools to compile C/C++ code to WebAssembly;
 - `Python <https://python.org/>`__ 3.9 or later: a programming language;
 - `pytest <https://pytest.org/>`__: a Python testing framework;
 - `Sphinx <https://www.sphinx-doc.org/>`__: a tool to generate documentation; and
