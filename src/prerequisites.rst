@@ -13,7 +13,7 @@ The following tools are required to develop, build , test and package libOpenCOR
 
   - **Windows:** `Visual Studio Community 2022 <https://apps.microsoft.com/detail/visual-studio-community-2022/XPDCFJDKLZJLP8>`__ ( ``Desktop development with C++`` with ``MSVC v143 - VS 2022 C++ x64/x86 build tools``, ``MSVC v143 - VS 2022 C++ ARM64/ARM64EC build tools``, and ``Windows 11 SDK``);
   - **Linux:** G++ (``g++`` package) on Ubuntu 22.04 LTS; and
-  - **macOS:** `Xcode <https://developer.apple.com/xcode/>`__ 15 (including its `Command Line Tools <https://developer.apple.com/downloads/?q=Command%20Line%20Tools>`__).
+  - **macOS:** `Xcode <https://developer.apple.com/xcode/>`__ 16 (including its `Command Line Tools <https://developer.apple.com/downloads/?q=Command%20Line%20Tools>`__).
 
 Additionally, you may also want to rely on the following optional tools:
 
