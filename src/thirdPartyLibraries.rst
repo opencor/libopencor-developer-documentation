@@ -86,7 +86,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |OpenSSL| replace:: ``[libOpenCOR]/src/3rdparty/OpenSSL/``
   .. _OpenSSL: https://github.com/opencor/libopencor/tree/master/src/3rdparty/OpenSSL/
 
-- `SUNDIALS <https://computing.llnl.gov/projects/sundials>`__ 7.1.0: a SUite of Non-linear and DIfferential/ALgebraic equation Solvers.
+- `SUNDIALS <https://computing.llnl.gov/projects/sundials>`__ 7.3.0: a SUite of Non-linear and DIfferential/ALgebraic equation Solvers.
 
   - Location: |SUNDIALS|_.
   - Licensing: `BSD 3-Clause <https://opensource.org/licenses/BSD-3-Clause>`__.
