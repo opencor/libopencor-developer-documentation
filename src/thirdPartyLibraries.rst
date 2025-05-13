@@ -78,7 +78,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |LLVM+Clang| replace:: ``[libOpenCOR]/src/3rdparty/LLVMClang/``
   .. _LLVM+Clang: https://github.com/opencor/libopencor/tree/master/src/3rdparty/LLVMClang/
 
-- `OpenSSL <https://openssl.org/>`__ 3.0.13: a toolkit implementing the Secure Sockets Layer (SSL v2/v3) and Transport Layer Security (TLS) protocols, as well as a full-strength general purpose cryptography library.
+- `OpenSSL <https://openssl.org/>`__ 3.5.0: a toolkit implementing the Secure Sockets Layer (SSL v2/v3) and Transport Layer Security (TLS) protocols, as well as a full-strength general purpose cryptography library.
 
   - Location: |OpenSSL|_.
   - Licensing: `OpenSSL and SSLeay <https://openssl.org/source/license.html>`__, which are both `BSD <https://opensource.org/licenses/BSD-3-Clause>`__-style licenses.
