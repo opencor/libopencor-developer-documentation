@@ -102,7 +102,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |zipper| replace:: ``[libOpenCOR]/src/3rdparty/zipper/``
   .. _zipper: https://github.com/opencor/libopencor/tree/master/src/3rdparty/zipper/
 
-- `zlib-ng <https://github.com/zlib-ng/zlib-ng>`__ 2.1.6: a `zlib <https://zlib.net/>`__ replacement with optimizations for "next generation" systems.
+- `zlib-ng <https://github.com/zlib-ng/zlib-ng>`__ 2.2.4: a `zlib <https://zlib.net/>`__ replacement with optimizations for "next generation" systems.
 
   - Location: |zlib-ng|_.
   - Licensing: `Zlib <https://opensource.org/licenses/Zlib>`__.
