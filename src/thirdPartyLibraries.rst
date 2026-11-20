@@ -6,7 +6,7 @@
 
 libOpenCOR uses various third-party libraries, all of which are listed below, together with the type of license(s) under which they are released, if any.
 
-- `libCellML <https://libcellml.org/>`__ 6c970b7: an easy-to-use library aiming to be useful to developers of `CellML <https://cellml.org/>`__ applications.
+- `libCellML <https://libcellml.org/>`__ 2026-11-23: an easy-to-use library aiming to be useful to developers of `CellML <https://cellml.org/>`__ applications.
 
   - Location: |libCellML|_.
   - Licensing: `Apache v2.0 <https://opensource.org/licenses/Apache-2.0>`__.
@@ -22,7 +22,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |libCOMBINE| replace:: ``[libOpenCOR]/src/3rdparty/libCOMBINE/``
   .. _libCOMBINE: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libCOMBINE/
 
-- `libcurl <https://curl.se/libcurl/>`__ 8.21.0: the multiprotocol file transfer library.
+- `libcurl <https://curl.se/libcurl/>`__ 8.23.0: the multiprotocol file transfer library.
 
   - Location: |libcurl|_.
   - Licensing: `curl <https://curl.se/docs/copyright.html>`__.
@@ -30,7 +30,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |libcurl| replace:: ``[libOpenCOR]/src/3rdparty/libcurl/``
   .. _libcurl: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libcurl/
 
-- `libNuML <https://github.com/NuML/NuML>`__ 1.1.7: a library for reading and writing `NuML <https://github.com/NuML/NuML>`__ models.
+- `libNuML <https://github.com/NuML/NuML>`__ 1.1.8: a library for reading and writing `NuML <https://github.com/NuML/NuML>`__ models.
 
   - Location: |libNuML|_.
   - Licensing: `LGPL v2.1 <https://opensource.org/licenses/LGPL-2.1>`__ (or later).
@@ -38,7 +38,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |libNuML| replace:: ``[libOpenCOR]/src/3rdparty/libNuML/``
   .. _libNuML: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libNuML/
 
-- `libSBML <https://github.com/sbmlteam/libsbml>`__ 5.21.0: a programming library to help you read, write, manipulate, translate and validate `SBML <https://sbml.org/>`__ files and data streams.
+- `libSBML <https://github.com/sbmlteam/libsbml>`__ 5.21.2: a programming library to help you read, write, manipulate, translate and validate `SBML <https://sbml.org/>`__ files and data streams.
 
   - Location: |libSBML|_.
   - Licensing: `LGPL v2.1 <https://opensource.org/licenses/LGPL-2.1>`__ (or later).
@@ -46,7 +46,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |libSBML| replace:: ``[libOpenCOR]/src/3rdparty/libSBML/``
   .. _libSBML: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libSBML/
 
-- `libSEDML <https://github.com/fbergmann/libSEDML>`__ 2.0.33: a library for reading and writing `SED-ML <https://sed-ml.github.io/>`__ files.
+- `libSEDML <https://github.com/fbergmann/libSEDML>`__ 2.0.34: a library for reading and writing `SED-ML <https://sed-ml.github.io/>`__ files.
 
   - Location: |libSEDML|_.
   - Licensing: `BSD 2-Clause <https://opensource.org/licenses/BSD-2-Clause>`__.
@@ -62,7 +62,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |libssh2| replace:: ``[libOpenCOR]/src/3rdparty/libssh2/``
   .. _libssh2: https://github.com/opencor/libopencor/tree/master/src/3rdparty/libssh2/
 
-- `libxml2 <https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home>`__ 2.9.14: the `XML <https://en.wikipedia.org/wiki/XML>`__ C parser and toolkit of `Gnome <https://gnome.org/>`__.
+- `libxml2 <https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home>`__ 2.15.4: the `XML <https://en.wikipedia.org/wiki/XML>`__ C parser and toolkit of `Gnome <https://gnome.org/>`__.
 
   - Location: |libxml2|_.
   - Licensing: `MIT <https://opensource.org/licenses/MIT>`__.
@@ -78,7 +78,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |LLVM+Clang| replace:: ``[libOpenCOR]/src/3rdparty/LLVMClang/``
   .. _LLVM+Clang: https://github.com/opencor/libopencor/tree/master/src/3rdparty/LLVMClang/
 
-- `OpenSSL <https://openssl.org/>`__ 3.5.7: a toolkit implementing the Secure Sockets Layer (SSL v2/v3) and Transport Layer Security (TLS) protocols, as well as a full-strength general purpose cryptography library.
+- `OpenSSL <https://openssl.org/>`__ 3.5.9: a toolkit implementing the Secure Sockets Layer (SSL v2/v3) and Transport Layer Security (TLS) protocols, as well as a full-strength general purpose cryptography library.
 
   - Location: |OpenSSL|_.
   - Licensing: `OpenSSL and SSLeay <https://openssl.org/source/license.html>`__, which are both `BSD <https://opensource.org/licenses/BSD-3-Clause>`__-style licenses.
@@ -86,7 +86,7 @@ libOpenCOR uses various third-party libraries, all of which are listed below, to
   .. |OpenSSL| replace:: ``[libOpenCOR]/src/3rdparty/OpenSSL/``
   .. _OpenSSL: https://github.com/opencor/libopencor/tree/master/src/3rdparty/OpenSSL/
 
-- `SUNDIALS <https://computing.llnl.gov/projects/sundials>`__ 7.7.0: a SUite of Non-linear and DIfferential/ALgebraic equation Solvers.
+- `SUNDIALS <https://computing.llnl.gov/projects/sundials>`__ 7.9.0: a SUite of Non-linear and DIfferential/ALgebraic equation Solvers.
 
   - Location: |SUNDIALS|_.
   - Licensing: `BSD 3-Clause <https://opensource.org/licenses/BSD-3-Clause>`__.
